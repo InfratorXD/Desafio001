@@ -49,7 +49,7 @@ public class Animal {
 	}
 
 	public void fazerSom() {
-		System.out.println("Animal fazendo som");
+		System.out.print("Animal fazendo som ");
 	}
 	
 	public void ExibirInformacoes() {
